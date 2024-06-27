@@ -12,8 +12,9 @@
 - 9 - Water Bucket
 - 10 - Steve
 - 11 - Apple
-- 12 - Alex
+- 12 - Carrot
 - 13 - Panda
 - 14 - Sign
 - 15 - Potion
-- 16 - Carrot
+- 16 - Map
+- 17 - Llama
